@@ -1,4 +1,4 @@
-# DevOps Ninja 
+# DevOps
 
 https://github.com/jonathanbaraldi/github-actions-terraform-eks-traefik-app.git
 
